@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fabri\\source\\repos\\covidAPI\\covidAPI\\covidAPI.csproj",
+      "projectUniqueName": "C:\\Users\\fabri\\d\\apiCovid\\covidAPI\\covidAPI\\covidAPI\\covidAPI.csproj",
       "projectName": "covidAPI",
-      "projectPath": "C:\\Users\\fabri\\source\\repos\\covidAPI\\covidAPI\\covidAPI.csproj",
+      "projectPath": "C:\\Users\\fabri\\d\\apiCovid\\covidAPI\\covidAPI\\covidAPI\\covidAPI.csproj",
       "packagesPath": "C:\\Users\\fabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fabri\\source\\repos\\covidAPI\\covidAPI\\obj\\",
+      "outputPath": "C:\\Users\\fabri\\d\\apiCovid\\covidAPI\\covidAPI\\covidAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
