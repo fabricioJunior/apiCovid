@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gMNscs9oF1Qs33dJuL0dNVU62DVVNao9OZltok1MrughP565jGinv6b+pecjs80MI9l41tqmfUZ9+LVeO5s55Q==",
+  "dgSpecHash": "ESqkY05L16gd1g+a7wC8jnpEpldP+eWu0suOPANCfS3Pmlpdoex7ZXV1zbREP4UbOEXB1TAHtXLJ/goHAwupRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabri\\source\\repos\\covidAPI\\covidAPI\\covidAPI.csproj",
+  "projectFilePath": "C:\\Users\\fabri\\d\\apiCovid\\covidAPI\\covidAPI\\covidAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabri\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
